@@ -1,0 +1,19 @@
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+.container {
+  height: 50px;
+  width: 50px;
+  border: 1px solid white;
+  background-color: transparent;
+}
+
+.container-yellow {
+  height: 50px;
+  width: 50px;
+  border: 1px solid white;
+  background-color: yellow;
+}
